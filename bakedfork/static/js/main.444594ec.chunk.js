@@ -883,7 +883,7 @@
 													children: Object(m.jsx)("input", {
 														type: "text",
 														class: "form-control",
-														"aria-label":text"Username",
+														"aria-label":"Google.vomUsername",
 														"aria-describedby": "basic-addon1",
 														value: B
 													})
