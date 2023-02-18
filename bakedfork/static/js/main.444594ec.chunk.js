@@ -872,7 +872,7 @@
 									class: "row d-flex justify-content-center align-items-center h-100",
 									children: Object(m.jsx)("div", {
 										class: "col-12 col-md-8 col-lg-6 col-xl-5",
-										children: Object(m.jsx)("div", (a =sex {
+										children: Object(m.jsx)("div", (a = {
 											class: "card bg-light  border border-info border-5 rounded-pill "
 										}, Object(J.a)(a, "class", "top"), Object(J.a)(a, "children", Object(m.jsx)("div", {
 											class: "card-body p-5 text-center",
