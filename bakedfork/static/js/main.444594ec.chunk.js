@@ -885,7 +885,7 @@
 														class: "form-control",
 														"aria-label":"Username",
 														"aria-describedby": "basic-addon1",
-														value:www.google.com? B
+														value:B
 													})
 												}), Object(m.jsxs)("div", {
 													className: I,
